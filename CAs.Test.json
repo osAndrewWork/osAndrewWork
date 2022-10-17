@@ -1,0 +1,14 @@
+[
+	{
+		"issuerCNs": 				["Акредитований центр сертифікації ключів ІДД ДФС",
+			"Акредитований центр сертифікації ключів ІДД Міндоходів",
+			"Акредитований центр сертифікації ключів ІДД ДПС"],
+		"address": 					"acskidd.gov.ua",
+		"ocspAccessPointAddress":	"acskidd.gov.ua/services/ocsp/",
+		"ocspAccessPointPort":		"80",
+		"cmpAddress":				"acskidd.gov.ua",
+		"tspAddress":				"acskidd.gov.ua",
+		"tspAddressPort":			"80",
+		"directAccess":				true
+	}
+]
